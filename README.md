@@ -1,3 +1,4 @@
 # BMI_Calculator
-Implemented C# to create a body mass index calculator which stores the user's String inputs, convert the string into an integer and compute the final result. 
-Used Windows Form Application to design the layout of the calculator.
+•	Engineered a body mass index (BMI) calculator that allow user to input data to calculate and display the BMI score 
+•	Utilized Windows Form Application on Visual Studio with C# to customize a layout design of the BMI calculator
+•	Secured the code by adding error message box for invalid integers(negative numbers, letters, and double numbers)
